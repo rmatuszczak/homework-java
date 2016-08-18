@@ -1,3 +1,6 @@
+/**Write an application that extends JFrame and that displays 15 nested circles, like those in the figure below.
+You may use only one drawOval() statement in the program. Save the file as JNestedCircles.java.
+*/
 import javax.swing.*;
 import java.awt.*;
 public class NestedCircles extends JFrame {
